@@ -2,8 +2,9 @@
 name = "panic-rauk"
 version = "0.1.0"
 categories = ["no-std"]
-description = "Set panicking behavior to abort"
+description = "Set panicking behaviour to abort"
 authors = ["Mark Hakansson <mark.hakansson@live.se>"]
 keywords = ["panic-impl", "panic-handler", "panic", "abort"]
 edition = "2018"
-
+readme = "README.md"
+license = "MIT OR Apache-2.0"
